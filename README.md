@@ -1,2 +1,3 @@
-# ApplitoolsEye-Selenium
-Experiments of Applitools Eye Visual Testing with Selenium 
+# Visual Testing 
+
+## The experiments with  Applitools eyes + Selenium 
